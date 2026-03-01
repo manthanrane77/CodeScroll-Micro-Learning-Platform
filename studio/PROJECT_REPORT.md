@@ -1,6 +1,5 @@
 # Code Scroller - Project Documentation Report
 
-**Generated:** November 4, 2025  
 **Version:** 1.0.0  
 **Tech Stack:** Next.js 15 + Spring Boot 3.2.12 + H2 Database
 
